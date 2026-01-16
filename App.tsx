@@ -66,9 +66,6 @@ const App: React.FC = () => {
                   <p className="text-stone-600 font-light text-sm leading-relaxed mb-6">
                     {item.description}
                   </p>
-                  <button className="w-full border-2 border-stone-200 text-stone-800 py-3 rounded-xl font-bold hover:bg-stone-800 hover:text-white hover:border-stone-800 transition">
-                    Aggiungi all'Ordine
-                  </button>
                 </div>
               </div>
             ))}
